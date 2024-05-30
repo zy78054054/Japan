@@ -1,0 +1,1 @@
+vless://2d1d605d-b339-4839-d627-81455fef8c90@34.146.253.242:10871?type=tcp&security=reality&sni=www.yahoo.com&pbk=cjMHDB9FpB86387ylQrC9lPIBgwxyIB-GTh2YoUeUl4&flow=xtls-rprx-vision&sid=ef3657b8&fp=chrome#Japan-google
